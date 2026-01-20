@@ -1,16 +1,34 @@
-## Hi there 👋
+# Jan Muhammad - SEO Consultant & GEO Expert
 
-<!--
-**janmuhammad-seo-consultant/janmuhammad-seo-consultant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jan Muhammad is an experienced [SEO consultant](http://janmuhammad.com/) and Generative Engine Optimization expert based in Karachi, Pakistan. With 5+ years of expertise as a professional SEO consultant, he has successfully ranked 50+ websites across various industries. Specializing in technical SEO, content strategy, and AI search optimization, he helps businesses achieve 50-100% organic traffic growth and dominate search results.
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Phone:** +92 310 0447222
+- **Email:** rindjanmuhammad@gmail.com
+- **Website:** [janmuhammad.com](http://janmuhammad.com/)
+- **Location:** Karachi, Pakistan
+
+## Services
+
+- SEO (Search Engine Optimization)
+- GEO (Generative Engine Optimization)
+- Website Development
+- Content Strategy
+- Local SEO
+
+---
+
+## 🔗 Connect With Me (Jan Muhammad SEO Consultant)
+
+- **Website:** [janmuhammad.com](http://janmuhammad.com/)
+- **LinkedIn:** [linkedin.com/in/janmuhammadrind](https://linkedin.com/in/janmuhammadrind)
+- **Twitter (X):** [x.com/janmuhammadrind](https://x.com/janmuhammadrind)
+- **Instagram:** [instagram.com/janmuhammad.rind](https://www.instagram.com/janmuhammad.rind/)
+
+🌍 **Based in Karachi, Pakistan** (Serving clients worldwide)  
+💼 **SEO Consultant** helping businesses dominate search results and grow organically
+
+---
+
+*Helping businesses grow with sustainable organic visibility*
