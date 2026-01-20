@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Jan Muhammad - SEO Consultant & GEO Expert
+# Jan Muhammad - SEO Consultant & GEO Expert
 
 ![SEO Expert](https://img.shields.io/badge/SEO-Expert-blue?style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-green?style=for-the-badge)
@@ -16,6 +16,14 @@
 
 Jan Muhammad is an experienced [SEO consultant](http://janmuhammad.com/) and Generative Engine Optimization expert based in Karachi, Pakistan. With 5+ years of expertise as a professional SEO consultant, he has successfully ranked 50+ websites across various industries. Specializing in technical SEO, content strategy, and AI search optimization, he helps businesses achieve 50-100% organic traffic growth and dominate search results.
 
+---
+
+
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
 ## 📞 Contact
 
 | Contact Method | Details |
@@ -24,6 +32,12 @@ Jan Muhammad is an experienced [SEO consultant](http://janmuhammad.com/) and Gen
 | 📧 **Email** | rindjanmuhammad@gmail.com |
 | 🌐 **Website** | [janmuhammad.com](http://janmuhammad.com/) |
 | 📍 **Location** | Karachi, Pakistan |
+
+</td>
+
+<td width="10%"></td>
+
+<td width="50%" " valign="top">
 
 ## 🛠️ Services
 
@@ -34,6 +48,11 @@ Jan Muhammad is an experienced [SEO consultant](http://janmuhammad.com/) and Gen
 ✅ Content Strategy
 ✅ Local SEO
 ```
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -56,4 +75,3 @@ Jan Muhammad is an experienced [SEO consultant](http://janmuhammad.com/) and Gen
 *⭐ Helping businesses grow with sustainable organic visibility ⭐*
 
 </div>
-
